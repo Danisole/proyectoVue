@@ -8,7 +8,7 @@ const app = new Vue({
                 dni: "28646908"
             },
             {
-                nombre: "vicente Lopez",
+                nombre: "vicente lopez",
                 direccion: "mendoza 344",
                 dni: "17334905"
             },
